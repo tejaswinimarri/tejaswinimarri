@@ -2,7 +2,7 @@
 
 <!-- Banner image at the top -->
 <p align="center">
-  <img src="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/A_professional_banner_displays_Tejaswini_Banner.jpeg" alt="Tejaswini Marri Banner" width="100%">
+  <img src="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/Tejaswini_Banner.jpeg" alt="Tejaswini Marri Banner" width="100%">
 </p>
 
 <!-- About Me Section -->
@@ -51,7 +51,7 @@ When I’m not working, I like to **paint, draw, cook**, and **spend time with p
 <p align="center">
   <a href="mailto:teja199224@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tejaswinimarri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/TejaswiniMarri_Data Analyst_Resume.pdf" target="_blank">
+  <a href="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/Tejaswini Marri_Data Analyst_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square"/>
 </a>
 
