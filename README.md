@@ -2,7 +2,7 @@
 
 <!-- Banner image at the top -->
 <p align="center">
-  <img src="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/A_professional_banner_displays_Tejaswini_banner.jpeg" alt="Tejaswini Marri Banner" width="100%">
+  <img src="https://github.com/tejaswinimarri/tejaswinimarri/blob/main/A_professional_banner_displays_Tejaswini_Banner.jpeg" alt="Tejaswini Marri Banner" width="100%">
 </p>
 
 <!-- About Me Section -->
@@ -55,10 +55,6 @@ When I’m not working, I like to **paint, draw, cook**, and **spend time with p
   <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square"/>
 </a>
 
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejaswinimarri&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views"/>
 </p>
 
 <!-- Optional GitHub comment block for visitors -->
